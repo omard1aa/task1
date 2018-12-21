@@ -1,0 +1,22 @@
+<form class="container">
+  <h1 style="text-align: center">Form</h1>
+  <br>
+  <br>
+
+  <mat-form-field>
+      <input matInput type="text" placeholder="Name" name = "name" >
+  </mat-form-field>
+  <mat-form-field>
+        <input matInput type="text" placeholder="Mail">
+  </mat-form-field>
+  <mat-form-field class="mini">
+      <mat-select placeholder="Country Code">
+        <mat-option *ngFor="let country of countries" [value]='country'><img src="{{country.image}}"> {{country.code}}: {{country.dial_code}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+  <mat-form-field>
+      <input matInput type="text" placeholder="Phone">
+  </mat-form-field>
+  <input type="file">
+    <button style="width: 100px" type="submit" class="btn btn-success">Submit</button>
+</form>
