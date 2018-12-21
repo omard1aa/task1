@@ -254,122 +254,148 @@ export class FormComponent implements OnInit {
     {
     "name": "Cayman Islands",
     "dial_code": "+ 345",
-    "code": "KY"
+    "code": "KY",
+    "image": "https://www.countryflags.io/ky/shiny/32.png"
     },
     {
     "name": "Central African Republic",
     "dial_code": "+236",
-    "code": "CF"
+    "code": "CF",
+    "image": "https://www.countryflags.io/cf/shiny/32.png"
+
     },
     {
     "name": "Chad",
     "dial_code": "+235",
-    "code": "TD"
+    "code": "TD",
+    "image": "https://www.countryflags.io/td/shiny/32.png"
+
     },
     {
     "name": "Chile",
     "dial_code": "+56",
-    "code": "CL"
+    "code": "CL",
+    "image": "https://www.countryflags.io/cl/shiny/32.png"
     },
     {
     "name": "China",
     "dial_code": "+86",
-    "code": "CN"
+    "code": "CN",
+    "image": "https://www.countryflags.io/cn/shiny/32.png"
     },
     {
     "name": "Christmas Island",
     "dial_code": "+61",
-    "code": "CX"
+    "code": "CX",
+    "image": "https://www.countryflags.io/cx/shiny/32.png"
     },
     {
     "name": "Cocos (Keeling) Islands",
     "dial_code": "+61",
-    "code": "CC"
+    "code": "CC",
+    "image": "https://www.countryflags.io/cc/shiny/32.png"
     },
     {
     "name": "Colombia",
     "dial_code": "+57",
-    "code": "CO"
+    "code": "CO",
+    "image": "https://www.countryflags.io/co/shiny/32.png"
     },
     {
     "name": "Comoros",
     "dial_code": "+269",
-    "code": "KM"
+    "code": "KM",
+    "image": "https://www.countryflags.io/km/shiny/32.png"
     },
     {
     "name": "Congo",
     "dial_code": "+242",
-    "code": "CG"
+    "code": "CG",
+    "image": "https://www.countryflags.io/cg/shiny/32.png"
     },
     {
     "name": "Congo, The Democratic Republic of the Congo",
     "dial_code": "+243",
-    "code": "CD"
+    "code": "CD",
+    "image": "https://www.countryflags.io/cd/shiny/32.png"
     },
     {
     "name": "Cook Islands",
     "dial_code": "+682",
-    "code": "CK"
+    "code": "CK",
+    "image": "https://www.countryflags.io/ck/shiny/32.png"
     },
     {
     "name": "Costa Rica",
     "dial_code": "+506",
-    "code": "CR"
+    "code": "CR",
+    "image": "https://www.countryflags.io/cr/shiny/32.png"
     },
     {
     "name": "Cote d'Ivoire",
     "dial_code": "+225",
-    "code": "CI"
+    "code": "CI",
+    "image": "https://www.countryflags.io/ci/shiny/32.png"
     },
     {
     "name": "Croatia",
     "dial_code": "+385",
-    "code": "HR"
+    "code": "HR",
+    "image": "https://www.countryflags.io/hr/shiny/32.png"
     },
     {
     "name": "Cuba",
     "dial_code": "+53",
-    "code": "CU"
+    "code": "CU",
+    "image": "https://www.countryflags.io/cu/shiny/32.png"
     },
     {
     "name": "Cyprus",
     "dial_code": "+357",
-    "code": "CY"
+    "code": "CY",
+    "image": "https://www.countryflags.io/cy/shiny/32.png"
     },
     {
     "name": "Czech Republic",
     "dial_code": "+420",
-    "code": "CZ"
+    "code": "CZ",
+    "image": "https://www.countryflags.io/cz/shiny/32.png"
     },
     {
     "name": "Denmark",
     "dial_code": "+45",
-    "code": "DK"
+    "code": "DK",
+    "image": "https://www.countryflags.io/dk/shiny/32.png"
     },
     {
     "name": "Djibouti",
     "dial_code": "+253",
-    "code": "DJ"
+    "code": "DJ",
+    "image": "https://www.countryflags.io/dj/shiny/32.png"
     },
     {
     "name": "Dominica",
     "dial_code": "+1767",
-    "code": "DM"
+    "code": "DM",
+    "image": "https://www.countryflags.io/dm/shiny/32.png"
     },
     {
     "name": "Dominican Republic",
     "dial_code": "+1849",
-    "code": "DO"
+    "code": "DO",
+    "image": "https://www.countryflags.io/do/shiny/32.png"
     },
     {
     "name": "Ecuador",
     "dial_code": "+593",
-    "code": "EC"
+    "code": "EC",
+    "image": "https://www.countryflags.io/ec/shiny/32.png"
     },
     {
     "name": "Egypt",
     "dial_code": "+20",
-    "code": "EG"
+    "code": "EG",
+    "image": "https://www.countryflags.io/eg/shiny/32.png"
     },
     {
     "name": "El Salvador",
